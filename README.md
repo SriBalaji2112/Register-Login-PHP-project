@@ -12,6 +12,7 @@ PHPMyAdmin MySQL DB:
 
 
 username : root
+
 password : null
 
 Register preview:
