@@ -6,6 +6,14 @@
 
 College Attendance Register and login using PHP
 
+PHPMyAdmin MySQL DB:
+
+![Alt text](img/db.jpg?raw=true "database")
+
+
+username : root
+password : null
+
 Register preview:
 
 ![Alt text](img/register.jpg?raw=true "register")
